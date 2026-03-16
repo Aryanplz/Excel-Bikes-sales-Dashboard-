@@ -135,11 +135,3 @@ This project highlights the following data analytics skills:
 # 📷 Dashboard Preview
 
 Example: ![Dashboard Preview](https://github.com/Aryanplz/Excel-Bikes-sales-Dashboard-/blob/main/Snapshot%20of%20Bike%20Sales%20Dashboard.png)
-
----
-
-⭐ If you want, I can also show you:
-
-* **The exact README format used by FAANG-level data analyst portfolios**
-* **How to make this project look like a REAL industry analytics project**
-* **3 improvements that can make this dashboard 10× stronger for recruiters**.
